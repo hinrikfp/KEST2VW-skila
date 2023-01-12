@@ -6,3 +6,5 @@
 | Motherboard | AsRock B85 anniversary |
 | RAM | G.Skill DDR3 4GB 1600MHz |
 | Storage | 60GB SATA SSD | 
+<br>
+
