@@ -1,10 +1,14 @@
 # Windows verkefni svör
 
+## Lab – Finalize Windows Installation
+
 ### What options are available in the Driver tab?
 driver details, update driver, roll back driver, disable device og uninstall device
 
 ### After finalizing the Windows installation, what else can you do to improve your experience?
 niðurhala og setja upp firefox, breyta bakgrunninum
+
+## Lab - Search for BIOS or UEFI Firmware Updates
 
 ### What key or combination of keys is used to run Setup on your computer?
 F11
@@ -24,11 +28,15 @@ Updated CPU microcode
 ### What are the instructions to update the new BIOS version?
 Setja BIOSin á USB disk, setja hann í tölvuna, fara í BIOS og flasha frá USB disknum
 
+## Lab - Install Third-Party Software in Windows
+
 ### What is the default installation location for Packet Tracer?
 C:\Program Files\Cisco Packet Tracer 8.2.0
 
 ### Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
 þannig að forritið eyðist rétt
+
+## Lab - Create a Partition in Windows
 
 ### What type of File System is used on the NEW VOLUME (I:)?
 FAT32
