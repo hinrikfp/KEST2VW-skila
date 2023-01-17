@@ -111,4 +111,70 @@ forrit í bakgrunninum
 ### What are the available actions that can be taken?
 Start, Stop, Restart, Open services, search online, go to details
 
+### What is the current utilization of the CPU?
+0%
+
+### How many streams of instructions (i.e. Threads) are currently running?
+1226
+
+### How many Apps, Background processes, and Windows processes (i.e Processes) are currently running?
+132
+
+### What is the total physical memory (MB)?
+4096MB
+
+### What is the available physical memory (MB)?
+1300MB
+
+### How much physical memory (MB) is being used by the computer?
+2400MB
+
+### What is the link speed? What type of Ethernet Adapter is in use on this computer?
+100Mbps
+
+### What type of network connection (i.e Connection type) is in use?
+Ethernet
+
+### What is the IPv4 address of the PC?
+10.11.214.54
+
+### What effect does this have on the columns?
+Raðar forritum eftir því hversu mikið RAM er notað
+
+### What affect does this have on the Memory column?
+sýnir hversu mörg % af RAM hvert forrit notar
+
+### How could this be useful?
+til að sjá hvaða forrit eru að nota of mikið RAM
+
+### The listed processes are divided by categories. What categories are listed?
+Apps, Background processes
+
+### Right-click a username. What are the available options?
+Expand, Disconnect, Manage user accounts
+
+### Click the Startup tab. Right-click a process and list the available options below.
+Disable, Open file location, Search online, Properties
+
+### What type of information can you get from this list?
+Hversu lengi forritið hefur verið notað, hversu mikið net umferð forritið hefur búið til
+
+### Right-click a process and list the available options below.
+End task, End process tree, provide feedback, set priority, set affinity, analyze wait chain, UAC virtualization, create dump file, open file location, search online, properties, go to service
+
+### Why is it important for an administrator to understand how to work within the Task Manager?
+til að geta fengið upplýsingar um stýrikerfið og tölvuna
+
+## Lab - Working with File Explorer
+
+### What happened with Folder1 and Folder2 on the Desktop?
+folder 2 færðist inn í folder1
+
+### What is the file extension for the text document?
+.txt
+
+### How would you do it?
+ctrl + C og Ctrl + V
+
+
 
