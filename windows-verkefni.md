@@ -176,5 +176,91 @@ folder 2 færðist inn í folder1
 ### How would you do it?
 ctrl + C og Ctrl + V
 
+### What are the attributes associated with this file?
+A
 
+### What is the complete path to Folder3?
+C:\Users\Númi-Hinrik\Desktop\folder1\folder2\folder3
 
+### What happened? Why would you want to do this?
+Það bjó til alias í file explorer þannig naður getur farið að möppuni hraðar
+
+### What are folders listed in the Local Disk (C:)?
+PerfLogs, Program Files, Program Files(x86), Users, Windows
+
+### Open the Users folder. List all the folders in the directory.
+Númi-Hinrik, Public
+
+### Were you able to open it? Explain
+yes, we clicked on it
+
+### Open the Public folder. List all the folders in the directory
+Public Documents, Public Downloads, Public Music, Public Pictures, Public Vides
+
+### Which folders or files listed under the Libraries heading?
+Camera Roll, Documents, Music, Pictures, Saved Pictures, Videos
+
+### How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+Fara í manage library gluggan, ýta á folder 1 og ýta svo á remove takkan
+
+## Lab – Explore Control Panel Categories
+
+### What are the viewing options?
+Category, Large icons, Small icons
+
+### Name a few of the Control Panel categories.
+System and Security, Programs, User Accounts, Network and Internet
+
+### Which subcategory would help you troubleshoot common problems?
+Security and Maintenence
+
+### Which subcategory allow a program through Windows Firewall?
+Windows Defender Firewall
+
+### Which subcategory allows you to view the basic network information and set up connections?
+Internet Options
+
+### Which subcategory allows you to choose what happens when you insert a media or device?
+AutoPlay
+
+### Which subcategory allows you to add a printer?
+Devices and Printers
+
+### Which subcategory would you use to have a specific file type always open in a specified program?
+Default Programs
+
+### Which subcategory would you use to uninstall a program?
+Programs and Features
+
+### hich subcategory would you use to install the Windows telnet client?
+Programs and Features
+
+### Which subcategory would you use change the account type from administrator to standard?
+User Accounts
+
+### Which subcategory would you use to view, edit, or remove the web and Windows credentials?
+Credential Manager
+
+### Which subcategory would you use to customize the Taskbar?
+Taskbar and Navigation
+
+### Which subcategory would you use to show hidden files and folders?
+File Explorer Options
+
+### Which subcategory would you use to show extensions for known file types?
+File Explorer Options
+
+### Which subcategory would you use to change the time zone?
+Date and Time
+
+### Which subcategory would you use to change date format?
+Region
+
+### Which subcategory would you use to synchronize the time on a computer with a specific web server on the Internet?
+Date and Time
+
+### Which subcategory would you use to configure the computer to read aloud any text on the screen?
+Ease of Access Center
+
+### Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy?
+Speech Recognition
