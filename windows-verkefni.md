@@ -280,4 +280,26 @@ Speech Recognition
 ### In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
 ef það eru mikilvægar skrár hjá notandanum
 
+## Lab - Manage Virtual Memory
+
+### What is the current size of the virtual memory (paging file)?
+1408MB
+
+### What Drive [Volume Label] contains the paging file?
+C:
+
+### What is the recommended paging file size for all drives?
+1367MB
+
+### What Drive [Volume Label] contains the paging file?
+I:
+
+### Why would you ever change the default virtual memory page file settings in Windows?
+enga hugmynd
+
+## Lab – Use Device Manager
+
+### What information is listed in the Device Manager window? Why would you use it?
+allt um vélbúnaðin í tölvuni og tæki sem eru tengd við hana sem maður getur notað til að leysa vandamál með vélbúnaðinn
+
 
