@@ -264,3 +264,20 @@ Ease of Access Center
 
 ### Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy?
 Speech Recognition
+
+### What is the advantage of having most users work within a Standard user account?
+þeir geta ekki eiðilagt tölvuna
+
+### For this lab, select Delete Files. What are the other options? When would you choose the other options?
+Það er líka hægt að geyma skránnar í möppu með notanda nafninu sem birtist á desktop ef maður vill eyga skánnar sem eru á notandanum
+
+### Why is it important to protect all accounts with strong passwords?
+þannig að annað fólk nær ekki að komast í stuffið mans
+
+### Why would you create a user with Standard privileges?
+þannig að fólk sem á kannski ekki tölvuna getur notað hana án þess að geta skemmt neitt
+
+### In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
+ef það eru mikilvægar skrár hjá notandanum
+
+
