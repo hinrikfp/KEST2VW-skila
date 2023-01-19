@@ -302,4 +302,43 @@ enga hugmynd
 ### What information is listed in the Device Manager window? Why would you use it?
 allt um vélbúnaðin í tölvuni og tæki sem eru tengd við hana sem maður getur notað til að leysa vandamál með vélbúnaðinn
 
+### Browse through the menus displayed at the top of the Device Manager window. Ho would you install driver software for an older device that may not be automatically recognized by the Windows operating system?
+Action - Add Legacy Hardware
+
+### What additional information does Driver Details provide?
+Provider, File version, Copyright, Digital signer
+
+### What two options do you have for updating the driver?
+Search automatically for drivers, Browse my computer for drivers
+
+### What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out?
+Roll back driver fer aftur í gamlan driver ef að uppfæra driver virkar ekki, takkinn er grár vegna þess að það er engin driver til að fara aftur í 
+
+### What are the other available options?
+Disable driver, Uninstall driver
+
+## Lab - Monitor and Manage System Resources
+
+### What is the status of the service?
+Microsoft Print to PDF
+
+### What message did you receive? How would you fix this?
+"Before you can perform printer-related tasks such as page setup or printing a document, you need to install a printer, Do you want to do that now" 
+
+### When DHCP Client stops, what other services will also be stopped?
+IP Helper, WinHTTP web proxy auto-disovery service, Netowork list service, Network location awareness
+
+### Why is it important to exercise care when managing services?
+Maður þarf að passa að maður stoppar ekkert mikilvægt
+
+### What is the full path name to the example file name?
+C:\PerfLogs\DESKTOP-M2TFF1S_20230119-000001\DataCollector01.csv
+
+### What does the column farthest to the right show?
+Available memory in megabytes
+
+
+
+
+
 
