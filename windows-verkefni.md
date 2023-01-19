@@ -366,6 +366,41 @@ Blár
 ### After restarting the computer, why was the desktop color changed?
 af því að background í regedit var breytt
 
+## Lab - Managing System Files
+
+### Processor:
+Inter Core i3-4160 CPU @ 3.60GHz. 3600 Mhz, 2 Core, 4 logical Processors
+
+### BIOS Version/Date:
+American Megatrends Inc. P1.60, 12/22/2015
+
+### Total Physical Memory:
+3.68 GB
+
+### DMA channels and the device using the resources.
+Channel 4, Direct memory access controller
+
+### Adapter Description:
+Microsfot Basic Display Adapter 
+
+### Adapter RAM:
+0 bytes
+
+### Under the Software Environment heading, where would you find the applications that automatically load when the computer boots?
+Startup Programs
+
+### What are the startup options?
+Normal startup, Diagnostic startup, Selective startup
+
+### Can you enable and disable services at this tab?
+Já
+
+### What can you do in this tab?
+Maður getur opnað ákveðin forrit
+
+
+
+
 
 
 
