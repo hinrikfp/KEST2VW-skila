@@ -337,6 +337,34 @@ C:\PerfLogs\DESKTOP-M2TFF1S_20230119-000001\DataCollector01.csv
 ### What does the column farthest to the right show?
 Available memory in megabytes
 
+## Lab - System Utilities
+
+### What was the path you use to navigate to the Event Viewer?
+Console Root\Management Tools\System Tools\Event Viewer
+
+### What is the background picture?
+windows xp background
+
+### What is the data value of the Background
+0 99 177
+
+### What is the data value of the Background?
+232 17 35
+
+### What is the data value of the Background?
+0 99 177
+
+### What is the color of the desktop?
+Rauður
+
+### Restart, What is the color of the desktop?
+Blár
+
+### Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
+þannig að ein persóna gæti stjórnað mörgum tölvum
+
+### After restarting the computer, why was the desktop color changed?
+af því að background í regedit var breytt
 
 
 
