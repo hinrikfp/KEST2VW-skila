@@ -421,6 +421,26 @@ Ef maður vill láta eitthvað forrit opnast þegar kveikt er á tölvuni eða m
 ### to see the next page, press the spacebar. What happens when you press enter?
 næsta skipun á listanum kemur upp
 
+| Skipun | hvað skipunin gerir |
+| ------ | ------ |
+| CD | breytir um möppu |
+| CHKDSK | athugar disk og byrtir niðurstöðu |
+| COPY | afritar skrár á annan stað |
+| DEL | eyðir skrá|
+| DIR | Byrtir lista af skrám og möppum |
+| DISKPART | byrtir eða breytir skiptingar á disk |
+| EXIT | Llokar CMD forritinu |
+| FORMATA | breytir disk til að virka með windows |
+| GPRESULTS | byrtir hóp reglur fyrir tölvu eða notanda |
+| MD | býr til möppu |
+| TASKLIST | byrtir lista yfir öll forrit í gangi |
+| RD | eyðir möppu |
+| ROBOCOPY | notað til að afrita skrár eða möppur |
+| SHUTDOWN | slekkur á tölvuni |
+| XCOPY | afritar skrár og möppur |
+
+### How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?
+ md C:\Users\ITEUser\a\b\c
 
 
  
