@@ -398,6 +398,50 @@ Já
 ### What can you do in this tab?
 Maður getur opnað ákveðin forrit
 
+### What does this tool report?
+"This tool reports detailed information about the DirectX components and drivers installed on your system"
+
+### What information is listed on this page?
+Á þessari síðu eru upplýsingar um skjá, skjákort og drivera fyrir það
+
+### What information is listed on this page?
+Á þessari síðu eru upplýsingar um hljóð, hljóðkort og drivera fyrir það
+
+### What information is listed on this page?
+Á þessari síðu eru upplýsingar um tæki tengd við tölvuna eins og USB tæki, mús og lyklaborð
+
+### Why would it be beneficial to turn off a service in the system configuration?
+t.d. ef það er ekki að virka eða ef maður þarf ekki að hafa það í gangi
+
+### When would you use the startup tab of the system configuration tool?
+Ef maður vill láta eitthvað forrit opnast þegar kveikt er á tölvuni eða maður vill stoppa forrit frá því að gera það
+
+## Lab - Work in the Windows Commands Shell
+
+### to see the next page, press the spacebar. What happens when you press enter?
+næsta skipun á listanum kemur upp
+
+| Command | Function |
+| ------- | -------- |
+| CS | breyta um möppu |
+| CHKDSK |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+
 
 
 
