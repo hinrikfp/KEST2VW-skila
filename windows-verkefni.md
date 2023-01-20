@@ -421,24 +421,9 @@ Ef maður vill láta eitthvað forrit opnast þegar kveikt er á tölvuni eða m
 ### to see the next page, press the spacebar. What happens when you press enter?
 næsta skipun á listanum kemur upp
 
-| Command | Function |
-| ------- | -------- |
-| CD | Displays the name of or changes the current directory. |
-| CHKDSK | Checks a disk and displays a status report. |
-| COPY | Copies one or more files to another location. |
-| DEL | Deletes one or more files. |
-| DIR | Displays a list of files and subdirectories in a directory. |
-| DISKPART | Displays or configures Disk Partition properties.  |
-| EXIT | Quits the CMD.EXE program (command interpreter). |
-| FORMAT | Formats a disk for use with Windows. |
-| GPRESULT | Displays Group Policy information for machine or user. |
-| MD | Creates a directory. |
-| TASKLIST | Displays all currently running tasks including services. |
-| RD | Removes a directory. |
-| ROBOCOPY | Advanced utility to copy files and directory trees |
-| SHUTDOWN | Allows proper local or remote shutdown of machine. |
-| XCOPY | Copies files and directory trees. |
 
+
+ 
 
 
 
