@@ -440,9 +440,69 @@ næsta skipun á listanum kemur upp
 | XCOPY | afritar skrár og möppur |
 
 ### How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?
- md C:\Users\ITEUser\a\b\c
+ md a\b\c
+ 
+ ### What command would you use to verify the creation of the nested directories?
+ dir
+ 
+ ### Clear the screen using the command line. Question: What command did you use?
+ cls
+ 
+ ### What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.
+ cls
+ 
+ ###  Press up arrow to display the last command used. Question: What is the last command?
+cls
 
+### What is the current directory?
+C:\Users\Numi-Hinrik
 
+### Which folder are you in now?
+ITEfolder3
+
+### What command or commands did you use to create the nested folders?
+md ITEfolder4\ITEfolder5
+
+### After issuing the cd .. command, what is your directory now?
+ITEfolder4
+
+### What would be the current directory if you issue this command at
+ITEfolder3
+
+### What single command would you use to delete all the files with doc2 in the filename? Use the command to remove the files with doc2 in the filename.
+del doc2*
+
+### What command would you use to delete all the files in the directory? Use the command to remove the files
+del *
+
+### hat option allows you to copy all the files and directories, including the empty directories?
+xcopy /E
+
+### Were you able to delete the directory? Explain
+Mappan er ekki tóm 
+
+### What are the advantages of using CLI vs. GUI?
+CLI getur verið mikið hraðar en GUI og maður getur notað það án þess að hafa skjá tengdan við tölvuna
+
+## Lab – Disk CLI Commands
+
+### What is the option to fix errors on the drive?
+/F
+
+### What is the option to force the volume to dismount first if necessary?
+/X
+
+### What is the option to locate bad sectors and recover readable information?
+/R
+
+### What happened? Explain
+skipunin keyrði ekki af því að ég hafði ekki Admin réttindi
+
+### What is the file system of the drive?
+NTFS
+
+### Enter list partition to list all the partitions on the disk. How many partitions are on the disk?
+5
  
 
 
