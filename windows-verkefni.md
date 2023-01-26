@@ -504,12 +504,49 @@ NTFS
 ### Enter list partition to list all the partitions on the disk. How many partitions are on the disk?
 5
  
+### What option is used to determine the maximum number of bytes that the volume can be shrink by?
+QUERYMAX
 
+### What is the maximum number of reclaimable bytes?
+981
 
+## Lab – Task and System CLI Commands
 
+### What is the option to list the modules that are associated with a task?
+/M
 
+### What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll.
+tasklist /M oleaut32.dll
+OneDrive.exe
+explorer.exe
+SearchApp.exe
 
+### What command would you use to find out all the tasks that are associated with your username?
+tasklist /FI "username eq Numi-Hinrik"
 
+### What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
+tasklist /FI "cputime eq 01:40:00"
 
+### What command would you use if you wanted to terminate all process owned by a particular user?
+taskkill /FI "username eq Númi-Hinrik"
 
+### What option would you use if you only wanted to scan the integrity of all the protected system files?
+/verifyonly
 
+### What would you add to the command so you can view the output one page at a time?
+|more
+
+### Enter the command to log off your computer. Record the command below.
+shutdown /l
+
+### Record the command below. What warning message did you see?
+shutdown /s /t 120
+"youre about to be signed out, windows will shut down in 2 minutes"
+
+### What command would you use to abort the shutdown?
+shutdown /a
+
+## Lab – Other Useful Commands
+
+### When does the password expire?
+3/9/2023 9:44:17 AM
