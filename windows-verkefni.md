@@ -599,5 +599,6 @@ pass.123
 
 ###What message is displayed on the remote computer and how much time is mentioned?
 einhver er að reyna að tengjast inná tölvuna þína, þú hefur 30 sekúndur til að bregðast við
+
 ###What is the default amount of time remote assistance invitations remain open?
 6 klukkutímar
