@@ -550,3 +550,44 @@ shutdown /a
 
 ### When does the password expire?
 3/9/2023 9:44:17 AM
+
+## Lab - Share Resources
+
+### What is the name of your computer?
+DESKTOP-M2TFF1S
+
+### What is the name of your partner’s computer and shared folder from your partner?
+DESKTOP-KDGV2VU  ShareKM
+
+### Can you open the Brief file?
+já
+
+### Can you delete the Brief file? What happens?
+það spyr hvort maður vill eyða skránni
+
+### What are the default permissions?
+bara að lesa
+
+### What needs to be changed to allow any remote users to make changes in the ShareXX folder?
+"change" réttindi
+
+### Can you open the Brief file?
+já
+
+### Can you delete the Brief file? What happens?
+já maður getur eytt skránni
+
+### What can you do to assign a drive letter to your partner’s shared folder?
+hægri smella á möppuna og ýta á "map network drive"
+
+## Lab – Windows Remote Desktop and Assistance
+
+### Record the name of this computer.
+DESKTOP-M2TFF1S
+
+### What is the current Remote Desktop Port?
+3389
+
+### What CLI command would you use to get the IP address?
+ipconfig
+
