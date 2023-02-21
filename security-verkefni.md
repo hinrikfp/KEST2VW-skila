@@ -86,6 +86,28 @@ Setja þá í administrator hópinn
 breyta réttinda stillingarnar til að bara notandin hafi aðgang
 
 
+## Lab – Configure Windows Firewall
+
+### Under PC-1, are you able to see the shared folder Cisco?
+Já
+
+### What are the benefits of Windows Firewall?
+hver sem er getur ekki talað við tölvuna gengum netið
+
+### Describe a negative consequence of having too many exceptions.
+það opnar fyrir árásum
+
+### Can you connect to PC-1 and view the Cisco shared folder?
+Nei
+
+### Did you receive an error message on PC-2? If so, what was the Error message?
+Network error cannot access windows
+
+### Can you connect to computer 1? Explain.
+já af því að núna geta tölvurnar tengst aftur
+
+
+
 
 
 
