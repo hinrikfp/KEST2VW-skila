@@ -106,6 +106,15 @@ Network error cannot access windows
 ### Can you connect to computer 1? Explain.
 já af því að núna geta tölvurnar tengst aftur
 
+### List the short name of four services that are available in the Customize Service Settnigs window.
+Appinfo, AppReadinessm, AppIDSvc, AJRouter
+
+### List four of the Specific ICMP types.
+Echo Request, Packet Too Big, Destination Unreachable, Time Exceeded
+
+### What are some possible reasons you may need to make firewall changes?
+T.d. ef maður þarf að hleypa einhverju forriti í gegnum eldveggin sem gerir það ekki sjálfkrafa
+
 
 
 
